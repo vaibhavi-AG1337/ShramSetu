@@ -1,0 +1,1 @@
+This is a platform to help daily wage workers to find work in near by places for the price they want. It also helps customers to find labour easily with built in chatbot. App is integrated with toll free number and multilingual support.
